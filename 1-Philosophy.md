@@ -31,6 +31,7 @@ The technician believes that anything that can possibly affect the price,
 - Politics,
 - Psychology,
 - etc,
+
 is all reflected in the price of that market. Following that logic, 
 **a study of price action is all that is required**.
 
