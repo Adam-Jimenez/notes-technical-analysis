@@ -41,6 +41,7 @@ to consider its true meaning.
 All this is really claiming is that price action should reflect shifts in supply in demand.
 - If demand exceeds supply, prices should rise.
 - If supply exceeds demand, prices should fall.
+
 This action is the basis of all economic and fundamental forecasting.
 
 The technician turns this statement around to arrive at the conclusion that if prices are rising,
@@ -409,5 +410,5 @@ human psychology and securities pricing are intertwined. That, of course, is the
 
 When an earlier version of this book was published, many of the technical timing tools that were explained were used mainly in the futures markets.
 Over the past decade, however, these tools have been widely employed in analyzing stock market trends. The technical principles that are discussed in this book
-can be applied universally to all markets - event mutual funds. One additional feature of stock market trading that has gained wide popularity in the past decade 
+can be applied universally to all markets - even mutual funds. One additional feature of stock market trading that has gained wide popularity in the past decade 
 has been sector investing, primarily through index options and mutual funds. 
