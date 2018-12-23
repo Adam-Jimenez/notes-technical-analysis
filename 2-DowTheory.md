@@ -62,6 +62,7 @@ Dow considered a trend to have three parts:
 - primary,
 - secondary,
 - minor,
+
 which he considered to the tide, waves and ripples of the sea. The primary trend represents the tide, the secondary or intermediate trend
 represents the waves that make up the tide and the minor trends behave like ripples on the waves.
 
@@ -80,7 +81,9 @@ Dow focused his attention on primary or major trends, which he felt usually take
 - an accumulation phase,
 - a public participation phase,
 - a distribution phase.
-The accumulation phase represents informed buying by the mo st astute investors. If the previous trend was down, then at this point these astute investors
+
+
+The accumulation phase represents informed buying by the most astute investors. If the previous trend was down, then at this point these astute investors
 recognize that the market has assimilated all the so-called "bad" news. The public participation phase, where most technical trend-followers begin to participate,
 occurs when prices begin to advance rapidly and business news improves. The distribution phase takes place when newspapers begin to print increasingly bullish stories;
 when economic news is better than ever; and when speculative volume and public participation increase. During this last phase the same informed investors who began to "accumulate"
