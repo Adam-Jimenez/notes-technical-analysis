@@ -1,14 +1,17 @@
 # Introduction
 
-This chapter is primarly intended for thos readers who are unfamiliar with bar chart construction. We'll begin by discussing 
+This chapter is primarly intended for those readers who are unfamiliar with bar chart construction. We'll begin by discussing 
 the different types of charts available and then turn our focus to the most communly used chart - __the daily bar chart__.
 We'll look at how the price data is read and plotted on the chart. Volume and open interest are also included in addition to price.
 We'll then look at other variations of the bar chart, including longer range weekly and monthly charts. 
 
 # Types of charts available
 
-The daily bar chart has already been acknowledge as the most widely used type of chart in technical analysis. There are, however,
-other types of charts also used by technicians, such as line charts, point and figure charts, and more recently, candlesticks.
+__The daily bar chart__ has already been acknowledge as the most widely used type of chart in technical analysis. There are, however,
+other types of charts also used by technicians, such as:
+- line charts, 
+- point and figure charts,  
+- candlesticks.
 
 It's called a bar chart because each day's range is represented by a vertical bar. The bar chart shows the open, high, low and closing prices.
 The tic to the right of the vertical bar is the closing price. The opening price is the tic to the left of the bar.
