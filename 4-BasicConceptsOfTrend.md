@@ -43,7 +43,7 @@ the third choice - to stay out of the market - is usually the wisest.
 
 # Trend has three classifications
 
-In additino to having three directions, trend is usually broken down into the three categories mentioned in the previous chapter.
+In addition to having three directions, trend is usually broken down into the three categories mentioned in the previous chapter.
 Those three categories are the major, intermediate and near term trends. In reality, there are almost an infinite number of trends interacting
 with one another, from the very short term trends covering minutes and hours to superlong trends lasting 50 or 100 years. Most technicians, however, limit
 trend classification to three. There is a certain amount of ambiguity, however, as to how different analysts define each trend.
@@ -68,7 +68,7 @@ In an intermediate uptrend, short term setbacks would be used to initiate long p
 # Support and resistance
 
 In the previous discussion of trend, it was stated that prices move in a series of peaks and troughs and that the direction of those peaks and troughs determined the trend of the market.
-Let's now give those peaks and troughs their appropriate names and, at the same time, introduce the concepts of __support__and __resistance__.
+Let's now give those peaks and troughs their appropriate names and, at the same time, introduce the concepts of __support__ and __resistance__.
 
 The troughs, or reaction lows, are called __support__. The term is self-explanatory and indicates that support is a level or area on the chart under the market where buying interest
 is sufficiently strong to overcome selling pressure. As a result, a decline is halted and prices turn back up again. Usually a support level is identified beforehand by a previous reaction low.
