@@ -44,7 +44,7 @@ Before beginning our discussion of the individual major reversal patterns, there
 2. The first signal of an impending trend reversal is often the breaking of an important trendline.
 3. The larger the pattern, the greater the subsequent move.
 4. Topping patterns are usually shorter in duration and more volatile than bottoms.
-5. Bottoms usually have smaller price rnages and take longer to build.
+5. Bottoms usually have smaller price ranges and take longer to build.
 6. Volume is usually more important on the upside.
 
 ### The need for a prior trend.
@@ -151,7 +151,7 @@ The pattern, however, is not complete until the neckline is decisively broken on
 or the requirement of two successive closes below the neckline (the two day rule) can be used for added confirmation. Until that downside violation takes place, however, there is always
 the possibility that the pattern is not really a head and shoulders top and that the uptrend may resume at some point.
 
-# The important of volume
+# The importance of volume
 
 The accompanying volume pattern plays an important role in the development of the head and shoulders top as it does in all price patterns. As a general rule, the second peak (the head)
 should take place on lighter volume than the left shoulder. This is not a requirement, but a strong tendency and an early warning of diminishing buying pressure. The most important
@@ -180,7 +180,7 @@ If the market exceeds the price bojective, that's just icing on the cake. The ma
 then the maximum downside objective from a topping pattern would be a complete retracement of the entire upmove all the way down to 30.
 Reversal patterns can only be expected to reverse or retrace what has gone before them.
 
-## Abjusting price objectives
+## Adjusting price objectives
 
 A number of other factors should be considered while trying to arrive at a price objective. The measuring techniques from price patterns, such as the one just mentioned for the head and shoulders top,
 are only the first step. There are other technical factors to take into consideration. For example, where are the prominent support levels left by the reaction lows during the previous bull move?
