@@ -276,7 +276,7 @@ to form, the wedge usually lasts more than one month but no more than three mont
 putting it into the intermediate category.
 
 What distinguishes the wedge is its noticeable slant. The wedge pattern has a noticeable 
-slant either to the upside or the downside. As a rule, like the flag pattern, the wedgeslants against the prevailing trend. Therefore, **a falling wedge is considered bullish and a falling wedge
+slant either to the upside or the downside. As a rule, like the flag pattern, the wedgeslants against the prevailing trend. Therefore, **a falling wedge is considered bullish and a rising wedge
 is bearish**.
 
 ## Wedges as tops and bottom reversal patterns
